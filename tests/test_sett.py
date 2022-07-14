@@ -1,10 +1,10 @@
-import sett
+import setdiff
 
 
 def test_basic():
     list_a = ["a", "b", "c"]
     list_b = ["a", "a", "b", "c", "d"]
-    res = sett.compute_statistics(list_a, list_b)
+    res = setdiff.compute_statistics(list_a, list_b)
     assert res["{A}"] == 3
     assert res["A"] == 3
     assert res["{B}"] == 4
