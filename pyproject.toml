@@ -5,6 +5,10 @@ description = "Sizes of sets of lines of two files"
 authors = ["Ondřej Měkota <ondrej.mekota@me.com>"]
 homepage = "https://github.com/pixelneo/sett"
 repository = "https://github.com/pixelneo/sett"
+license = "MIT"
+include = [
+    "LICENSE.md",
+]
 classifiers = [
     "Topic :: Text Processing",
     "Topic :: Utilities"
