@@ -9,6 +9,7 @@ license = "MIT"
 include = [
     "LICENSE.md",
 ]
+readme = "README.md"
 classifiers = [
     "Topic :: Text Processing",
     "Topic :: Utilities"
