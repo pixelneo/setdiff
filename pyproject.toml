@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "setdiff"
-version = "1.0.0"
+version = "1.0.1"
 description = "Sizes of sets of lines of two files"
 authors = ["Ondřej Měkota <ondrej.mekota@me.com>"]
 homepage = "https://github.com/pixelneo/setdiff"
