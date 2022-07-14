@@ -1,4 +1,4 @@
-# sett
+# setdiff
 Given two files, show the size of set difference, union, intersection, and more of their lines.
 
 ## Example:
