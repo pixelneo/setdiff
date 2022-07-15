@@ -21,7 +21,7 @@ ab
 ```
 ### Usage:
 
-`sett a b`
+`sett a b` or alias `setdiff a b`
 
 Output:
 ```

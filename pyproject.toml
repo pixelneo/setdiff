@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "setdiff"
-version = "1.0.1"
+version = "1.0.2"
 description = "Sizes of sets of lines of two files"
 authors = ["Ondřej Měkota <ondrej.mekota@me.com>"]
 homepage = "https://github.com/pixelneo/setdiff"
@@ -23,6 +23,7 @@ pytest = "^5.2"
 
 [tool.poetry.scripts]
 sett = 'setdiff.sett:run'
+setdiff = 'setdiff.sett:run'
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
